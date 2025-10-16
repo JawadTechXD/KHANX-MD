@@ -112,6 +112,48 @@
   </table>
 </p>
 
+## 🚀 Deploy Free on VPS
+
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
+
+> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://jawadtech-vps.onrender.com" target="_blank">
+        <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🤖 Deploy SIGMA-MD Mini
+
+> Simple pairing process - Just connect your WhatsApp and start using the bot instantly!
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://sigma-mini.vercel.app" target="_blank">
+        <img alt="Deploy Sigma MD Mini" src="https://img.shields.io/badge/Deploy%20Sigma%20MD%20Mini-FF8C00?style=for-the-badge&logo=rocket&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Quick Start**: Visit the link above, pair your number, and the bot will be ready to use!
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JawadTechXD/KHAN-MDX" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
 <table align="center">
   <tr>
     <td>
