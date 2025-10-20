@@ -50,7 +50,7 @@ module.exports = {
     ANTI_LINK: process.env.ANTI_LINK || "true",    // Block links in groups
     ANTI_VV: process.env.ANTI_VV || "true",   // Block view-once messages
     DELETE_LINKS: process.env.DELETE_LINKS || "false",          // Auto-delete links?
-    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // inbox deleted messages (or 'same' to resend)
+    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", // inbox deleted messages (or 'same' to resend)
     ANTI_BOT: process.env.ANTI_BOT || "true",
     PM_BLOCKER: process.env.PM_BLOCKER || "true",
 
