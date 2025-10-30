@@ -157,7 +157,7 @@
 
 Use the following GitHub Actions workflow to automatically build and start your Node.js project on every push or pull request to the `main` branch.
 
-```yaml
+```
 name: Node.js CI
 
 on:
