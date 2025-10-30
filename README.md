@@ -153,15 +153,48 @@
 
 > 💡 **Quick Start**: Visit the link above, pair your number, and the bot will be ready to use!
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/3176" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
+## 🚀 Deploy On Workflow (GitHub Actions)
+
+Use the following GitHub Actions workflow to automatically build and start your Node.js project on every push or pull request to the `main` branch.
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+> ⚠️ **Disclaimer:**  
+> This project and workflow are provided for **educational purposes only**.  
+> We are **not responsible** for any misuse, errors, or **GitHub account suspension** resulting from its use.
 
 ## 🌟 BOT FEATURES
 
