@@ -69,7 +69,16 @@
   <div style="height: 10px;"></div>
   
   ---
+
+> **PAIRING LINK (02)**
+  <a href='https://khanxmd-pair.onrender.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-FFFF00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
   
+  <div style="height: 10px;"></div>
+  
+ ---
+
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/JawadTechXD/KHANX-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
