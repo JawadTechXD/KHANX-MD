@@ -40,7 +40,7 @@
     "wa-sticker-formatter": "^4.4.4",
     "path": "^0.12.7",
     "dotenv": "^16.0.0",     
-    "jimp": "1.6.0"
+    "jimp": "1.6.0",
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0-rc.12",
     "qrcode-terminal": "^0.12.0",
